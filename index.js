@@ -7,7 +7,7 @@ activity : {
 details : "urdetail",
 assets : {
 large_image : "image",
-large_text : "iamgeinfo" // THIS WILL SHOW AS "Playing <Status>" from the outisde
+large_text : "iamgeinfo" // profilinde "Playing <Status>" diye gözükcek
 },
 buttons : [{label : "button1" , url : "buttonlink"},{label : "button2",url : "buttonlink"}]
 }
