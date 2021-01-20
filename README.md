@@ -1,6 +1,7 @@
 # discordrpc_with_buttons
 #Discord Rich Presence with buttons.
-# ```SchytE yaptı kullanmayan toptur.```
+# ```q
+SchytE yaptı kullanmayan toptur or toptur.```
 # <img alt="" src="https://media.discordapp.net/attachments/331814278808076288/801514315349229669/unknown.png" style="width: 240px; height: 368px;">
 # Kolay kullanım: npm kur, node.js kur, git kur.
 # 1) Masaüstüne gel Shift+Right Click yap Powershell aç.
