@@ -6,7 +6,7 @@
 # 1) Masaüstüne gel Shift+Right Click yap Powershell aç.
 # 2) git clone [reponun_linki] yap.
 # 3) Herhangi bir text editor ile dev portal app id yapıştır (index.js) dosyasına, gerekli ayarlamaları yap kaydet.
-# 4) Reponun kurulu olduğu klasöre Shift+Right Click yap [npm install] yap bekle bitince node index.js yap tamamdır.
+# 4) Reponun kurulu olduğu klasöre Shift+Right Click yap [npm install] yap bekle bitince npm audit fix yapmayı ihmal etme ardından node index.js yap tamamdır.
 #Eklemek istedikleriniz varsa Fork yapabilirsiniz iyi günler.
 # 🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡
  ğ
